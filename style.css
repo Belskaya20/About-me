@@ -1,0 +1,55 @@
+body {
+    background-image: url(https://www.meme-arsenal.com/memes/2df07c6c4542793e22956d125c320367.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+header {
+    font: bold 18px/26px sans-serif;
+    border-top: 3px solid;
+    border-bottom: 3px solid;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+h1 {
+    font: 30px/26px sans-serif;
+}
+
+section {
+    text-align: center;
+    font-family: normal 18px/26px sans-serif;
+}
+
+p {
+    font-style: italic;
+}
+
+.left {
+    text-align: left;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+div {
+    border: solid;
+}
+
+footer p {
+    font: normal 16px/26px sans-serif;
+}
+
+h2 {
+    font: 26px/26px sans-serif;
+}
